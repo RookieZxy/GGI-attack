@@ -17,7 +17,7 @@ To track the loss during the demonstration, we utilize the livelossplot library.
 pip install livelossplot
 ```
 
-## Running the code
+## Running the Code
 The script to run the baseline method mentioned in our paper is in <kbd style="background-color: #f2f2f2;">/Baseline-attack/scripts/run_text_exp.py</kbd>.
 
 You can also find our method(GGI) in the path <kbd style="background-color: #f2f2f2;">/GGI-attack/demo.ipynb</kbd>.
