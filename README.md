@@ -12,3 +12,8 @@ When you install PyEnchant, it typically requires the Enchant library to be inst
 ```bash
 sudo apt-get install libenchant1c2a
 ```
+
+To track the loss during the demonstration, we utilize the livelossplot library. Therefore, it's recommended to install this library using pip before proceeding.
+```bash
+pip install livelossplot
+```
