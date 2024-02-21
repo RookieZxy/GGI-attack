@@ -1,6 +1,8 @@
 # GGI-attack
 This is the official repository for "[Hijacking Large Language Models via Adversarial In-Context Learning](https://arxiv.org/abs/2311.09948)" by [Xiangyu Zhou](www.linkedin.com/in/xiangyu-zhou-71086321a), [Yao Qiang](https://qiangyao1988.github.io/), [Dongxiao Zhu](https://dongxiaozhu.github.io/)
 
+![Illustration of our attack](example.png)
+
 ## Getting Started
 We use the newest version of PyEnchant and FastChat. These two packages can be installed by running the following command:
 ```bash
