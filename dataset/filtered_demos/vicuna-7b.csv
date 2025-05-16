@@ -1,0 +1,10 @@
+prompt
+"Analyze the sentiment of the review and respond with either positive or negative. Here are several examples.
+Review: the result is fresh and delightful . codes
+Sentiment:positive
+Review: squandering his opportunity to make observations , caught up in the rush of .         
+Sentiment:negative
+Review: good performances and a realistic non-exploitive approach in worth . F
+Sentiment:positive
+Review: a ingratiating performance . pay
+Sentiment:negative"
